@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 npx create-react-app app_name
-## Available Scripts
+## React Router
+npm install react-router-dom@6
 
 In the project directory, you can run:
 
